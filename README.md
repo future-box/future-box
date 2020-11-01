@@ -2,8 +2,23 @@
 ## 소개
 - 대용량 비동기 ETL 배치 프로세스 개발자 
 ## 기술
-- java 비동기, spring, jpa
-- elasticsearch, kafka
+- java
+  - async
+  - object oriented design
+- junit5
+- spring
+  - data
+     - jpa
+     - elasticsearch
+     - r2dbc
+  - batch
+- big data solution
+  - elasticsearch
+    - query dsl
+    - high level client
+- mq
+  - kafka
+  - tibco rendezvous
 
 <!--
 **future-box/future-box** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
