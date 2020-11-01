@@ -1,4 +1,9 @@
-### Hi there 👋
+# 장윤진
+## 개발자로서 나의 기술을 표현하는 한마디
+- 대용량 비동기 ETL 배치 프로세스 개발자 
+## 기술
+- 프로그래밍 언어: java
+- 솔루션: elasticsearch, kafka
 
 <!--
 **future-box/future-box** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
