@@ -2,9 +2,13 @@
   - java
     - stream
     - module
-    - async
-      - future
+    - concurrent
+      - Future
         - CompletableFuture
+      - Executor
+        - ExecutorService
+          - AbstractExecutorService
+            - ThreadPoolExecutor
     - object oriented design
     - framework
       - spring
@@ -13,6 +17,7 @@
            - elasticsearch
            - r2dbc
         - batch
+          - concurrent batch
       - junit5
   - go
 - rdb
