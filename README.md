@@ -1,7 +1,3 @@
-# 장윤진
-## 소개
-- 대용량 비동기 ETL 배치 프로세스 개발자 
-## 기술
 - language
   - java
     - stream
