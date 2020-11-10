@@ -17,7 +17,7 @@
   - go
 - rdb
   - SQL
-- big data solution
+- search engine
   - elasticsearch
     - query dsl
     - high level client
